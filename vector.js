@@ -4,4 +4,5 @@ function arraySuma(array) {
         add += array[i];
     }
     return add;
+    //Gueiby comentario
 }
